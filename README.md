@@ -1,4 +1,4 @@
-### Hi there, I'm Laura 👋 
+### Hello there 👋 
 
 <!--
 **Laura-fr/Laura-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
