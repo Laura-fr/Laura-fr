@@ -13,6 +13,6 @@
 * <samp>Fun fact : There is no fun fact.</samp>
 
  <br/>
- <samp>Below are my latest and wonderful projects that I'm currently working on... 🌈 </samp>
+ <samp>Below are my latest and amazing projects that I'm currently working on... 🌈 </samp>
 
 
