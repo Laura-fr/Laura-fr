@@ -1,4 +1,4 @@
-## <samp>Hello there, I'm Laura</samp> 👽
+## Hello there, I'm Laura 👽
 
  <samp>Ex social-worker, at the end of this wonderful year 2020, I decided to take a different path and start a new career in web and mobile development, until now I'm enjoying it a lot ! 👩‍💻   </samp>
 
