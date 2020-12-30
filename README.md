@@ -1,16 +1,18 @@
-### Hello there 👋 
+### Hello there, I'm Laura 👽
 
-<!--
-**Laura-fr/Laura-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <samp>Ex social-worker, at the end of this wonderful year 2020, I decided to take a different path and start a new career in web and mobile development, until now I'm enjoying it a lot ! 👩‍💻   </samp>
 
-Here are some ideas to get you started:
+  <samp>Interested in creating frontend and backend web-apps with React/NodeJS, as well as mobile-apps with React Native. I also can't wait to learn lot of new things.  </samp>
+ <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+* <samp>I’m intensely working on several projects to improve myself </samp> 💪
+* <samp>I’m wisely learning about React and React Native 📚🪐 </samp>
+* <samp>I’m currently looking for a 6 months internship to get my first professional experience ! 🔥 </samp>
+* <samp>How to reach me : laurafraysse95@gmail.com 🛸 </samp>
+* <samp>Fun fact : There is no fun fact.</samp>
+
+ <br/>
+ <samp>Below are my latest and wonderful projects that I'm currently working on... 🌈 </samp>
+
+
