@@ -1,6 +1,6 @@
 ## Hello there, I'm Laura 👽
 
- <pre><samp>Ex social-worker, at the end of this wonderful year 2020, I decided to take a different path and start a new career in web and mobile development, until now I'm enjoying it a lot ! 👩‍💻   </samp>
+ <samp>Ex social-worker, at the end of this wonderful year 2020, I decided to take a different path and start a new career in web and mobile development, until now I'm enjoying it a lot ! 👩‍💻   </samp>
 
   <samp>I'm interested in creating frontend and backend web-apps with React/NodeJS, as well as mobile-apps with React Native. I also can't wait to learn a lot of new things.  </samp>
  <br/>
@@ -13,6 +13,6 @@
 * <samp>Fun fact : There is no fun fact.</samp>
 
  <br/>
- <samp>Below are my latest and amazing projects that I'm currently working on... 🌈 </samp></pre>
+ <samp>Below are my latest and amazing projects that I'm currently working on... 🌈 </samp>
 
 
