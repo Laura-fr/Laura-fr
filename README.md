@@ -9,7 +9,7 @@
 
 * <samp>MERN STACK DEVELOPPER (MongoDB, Express, React, React Native, NodeJS)📚🪐  </samp>
 * <samp>I’m intensely working on several projects to improve myself </samp> 💪
-* <samp>I’m presently looking for a 6 months internship to get my first professional experience ! 🔥 </samp>
+* <samp>I’m presently looking for my first professional experience ! 🔥 </samp>
 * <samp>How to reach me : laurafraysse95@gmail.com 🛸 </samp>
 * <samp>Fun fact : There is no fun fact.</samp>
 
